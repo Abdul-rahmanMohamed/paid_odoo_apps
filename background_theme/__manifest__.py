@@ -23,8 +23,8 @@
                "static/description/background2.gif"
               ],
     "license": "LGPL-3",
-    "price": '5.0',
-    "Currency": "USD",
+#     "price": '10.0',
+#     "Currency": "USD",
     "installable": True,
     "application": True,
     "auto_install": False,
