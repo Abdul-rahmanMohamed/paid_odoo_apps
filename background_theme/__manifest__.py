@@ -22,7 +22,8 @@
     "demo": [],
     "qweb": ["static/src/xml/point_of_sale_logo.xml"],
     "images": ["static/src/xml/icon.png",
-               "static/description/background.gif"
+               "static/description/background.gif",
+               "static/description/background2.gif",
               ],
     "license": "LGPL-3",
     "installable": True,
