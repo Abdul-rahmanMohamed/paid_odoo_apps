@@ -21,7 +21,9 @@
     "data": ['views/hide_conversation_from_nav_bar.xml'],
     "demo": [],
     "qweb": ["static/src/xml/point_of_sale_logo.xml"],
-    "images": ["static/src/xml/icon.png"],
+    "images": ["static/src/xml/icon.png",
+               "static/description/background.gif"
+              ],
     "license": "LGPL-3",
     "installable": True,
     "application": True,
