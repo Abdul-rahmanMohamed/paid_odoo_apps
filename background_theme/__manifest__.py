@@ -13,7 +13,7 @@
     change odoo logo from pos product screen into logo of company
     change shape of basic theme as whole and colors branding odoo standard
     """
-    "price": 15,
+    "price": 0,
     "Currency": "USD",
     "maintainer": "Abdulrhman Mohamed Hafeza",
     "website": "https://github.com/Abdul-rahmanMohamed",
